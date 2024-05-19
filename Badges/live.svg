@@ -14,7 +14,7 @@
         <rect width="100" height="30" fill="url(#grad1)"/>
     </g>
     <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100">
-        <image x="9" y="7" width="14" height="14" xlink:href="clock.svg"/>
+        <image x="9" y="7" width="14" height="14" xlink:href="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/b5273349c26e95569f6bf9e5a6cad4dc1f994986/Badges/clock.svg"/>
         <text transform="scale(.1)" x="577.5" y="175" textLength="515" fill="#fff" font-weight="bold">
             PREVIEW
         </text>
