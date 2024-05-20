@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="78" height="28" role="img" aria-label="HTML5">
+    <title>HTML5</title>
+    <defs>
+        <radialGradient id="grad1" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+            <stop offset="0%" style="stop-color:#4682b4;stop-opacity:1">
+                <animate attributeName="stop-color" values="#4682b4;#00fa9a;#4682b4" dur="5s" repeatCount="indefinite" />
+            </stop>
+            <stop offset="100%" style="stop-color:#00fa9a;stop-opacity:1">
+                <animate attributeName="stop-color" values="#00fa9a;#4682b4;#00fa9a" dur="5s" repeatCount="indefinite" />
+            </stop>
+        </radialGradient>
+    </defs>
+    <g shape-rendering="crispEdges">
+        <rect width="78" height="28" fill="url(#grad1)"/>
+    </g>
+    <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100">
+        <image x="9" y="7" width="14" height="14" xlink:href="https://upload.wikimedia.org/wikipedia/commons/3/38/HTML5_Badge.svg"/>
+        <text transform="scale(.1)" x="470" y="175" textLength="415" fill="#fff" font-weight="bold">
+            HTML5
+        </text>
+    </g>
+</svg>
+
+

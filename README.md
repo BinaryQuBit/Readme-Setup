@@ -1,1 +1,0 @@
-<img src="../Readme-Setup/Badges/live.svg">
