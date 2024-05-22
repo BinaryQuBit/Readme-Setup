@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="112" height="30" role="img" aria-label="MARKDOWN">
+    <title>MARKDOWN</title>
+    <defs>
+        <radialGradient id="grad1" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
+            <stop offset="0%" style="stop-color:#9e3ffd;stop-opacity:1">
+                <animate attributeName="stop-color" values="#9e3ffd;#ff69b4;#9e3ffd" dur="5s" repeatCount="indefinite" />
+            </stop>
+            <stop offset="100%" style="stop-color:#ff69b4;stop-opacity:1">
+                <animate attributeName="stop-color" values="#ff69b4;#9e3ffd;#ff69b4" dur="5s" repeatCount="indefinite" />
+            </stop>
+        </radialGradient>
+    </defs>
+    <g shape-rendering="crispEdges">
+        <rect width="112" height="30" fill="url(#grad1)"/>
+    </g>
+    <g transform="translate(3, 7) scale(0.12)">
+      <rect xmlns="http://www.w3.org/2000/svg" width="198" height="118" x="5" y="5" ry="10" stroke="#000" stroke-width="10" fill="none"/>
+      <path xmlns="http://www.w3.org/2000/svg" d="M30 98V30h20l20 25 20-25h20v68H90V59L70 84 50 59v39zm125 0l-30-33h20V30h20v35h20z"/>
+    </g>
+    <text transform="scale(0.09)" x="340" y="210" fill="#fff" font-size="125" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif">
+        MARKDOWN
+    </text>
+</svg>
