@@ -618,7 +618,7 @@
       </a>
       <br>
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/f72a269391103202ed1340654369c260cd854709/badges/3dModelling%26animations/left/adobeIllustrator.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/c7fcb7e4d2271f8aae3e8a8ad706883dae7b78ea/badges/3dModelling%26animations/left/adobeIllustrator.svg">
       </a>  
       <br>
     </td>
