@@ -244,7 +244,7 @@
     <a href="#"><img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/f72a269391103202ed1340654369c260cd854709/headers/techStack.svg" style="width: 100%"></a>
 </div>
 <h3 align = "center">👩‍💻 Languages</h3>
-<table align="center" width="100%">
+<table align="center" style="width: 100%;">
   <tr>
     <td align="center" width="33%">
       <a href="#">
@@ -306,7 +306,7 @@
 <h2></h2>
 
 <h3 align="center">🤖 Artificial Intelligence & Machine Learning Libraries</h3>
-<table align="center" width="100%">
+<table align="center" style="width: 100%;">
   <tr>
     <td align="center" width="33%">
       <a href="#">
@@ -345,7 +345,7 @@
 <h2></h2>
 
 <h3 align="center">☁ Cloud Platforms</h3>
-<table align="center" width="100%">
+<table align="center" style="width: 100%;">
   <tr>
     <td align="center" width="33%">
       <a href="#">
@@ -383,7 +383,7 @@
 <h2></h2>
 
 <h3 align="center">🚀 Development Tools & Environments</h3>
-<table align="center" width="100%">
+<table align="center" style="width: 100%;">
   <tr>
     <td align="center" width="33%">
       <a href="#">
@@ -433,7 +433,7 @@
 <h2></h2>
 
 <h3 align="center">💻 Web Development Frameworks & Libraries</h3>
-<table align="center" width="100%">
+<table align="center" style="width: 100%;">
   <tr width="100%">
     <td align="center" width="33%">
       <a href="#">
@@ -531,7 +531,7 @@
 <h2></h2>
 
 <h3 align="center">⚡ Databases</h3>
-<table align="center" width="100%">
+<table align="center" style="width: 100%;">
   <tr>
     <td align="center" width="33%">
       <a href="#">
@@ -557,7 +557,7 @@
 <h2></h2>
 
 <h3 align="center">🌐 Web Servers</h3>
-<table align="center" width="100%">
+<table align="center" style="width: 100%;">
   <tr>
     <td align="center" width="33%">
       <a href="#">
@@ -583,7 +583,7 @@
 <h2></h2>
 
 <h3 align="center">💡 3D Modeling and Animation Softwares</h3>
-<table align="center" width="100%">
+<table align="center" style="width: 100%;">
   <tr>
     <td align="center" width="33%">
       <a href="#">
@@ -621,7 +621,7 @@
 <h2></h2>
 
 <h3 align="center">⚙️ Hardware and Microcontroller Boards</h3>
-<table align="center" width="100%">
+<table align="center" style="width: 100%;">
   <tr>
     <td align="center" width="33%">
       <a href="#">
