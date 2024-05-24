@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="150" height="30" role="img" aria-label="NUMPY">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="160" height="30" role="img" aria-label="NUMPY">
     <title>NUMPY</title>
 <defs>
         <radialGradient id="grad1" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
@@ -12,7 +12,7 @@
         <style xmlns="http://www.w3.org/2000/svg">.cls-1{fill:#4d77cf;}.cls-2{fill:#4dabcf;}</style>
     </defs>
     <g shape-rendering="crispEdges">
-        <rect width="150" height="30" fill="url(#grad1)"/>
+        <rect width="160" height="30" fill="url(#grad1)"/>
     </g>
     <g transform="translate(5, 1.5) scale(0.08)">
         <polygon xmlns="http://www.w3.org/2000/svg" class="cls-2" points="132.38 96.4 95.25 77.66 54.49 98 92.63 117.15 132.38 96.4"/>

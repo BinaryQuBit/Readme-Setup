@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="165" height="30" role="img" aria-label="MONGODB">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="175" height="30" role="img" aria-label="MONGODB">
     <title>MONGODB</title>
     <defs>
         <radialGradient id="grad1" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
@@ -11,7 +11,7 @@
         </radialGradient>
     </defs>
     <g shape-rendering="crispEdges">
-        <rect width="165" height="30" fill="url(#grad1)"/>
+        <rect width="175" height="30" fill="url(#grad1)"/>
     </g>
     <g transform="translate(5, 4) scale(0.022)">
         <circle xmlns="http://www.w3.org/2000/svg" cx="512" cy="512" r="512" style="fill:#13aa52"/>

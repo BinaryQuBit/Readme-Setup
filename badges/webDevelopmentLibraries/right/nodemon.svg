@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="135" height="30" role="img" aria-label="NODEMON">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="145" height="30" role="img" aria-label="NODEMON">
     <title>NODEMON</title>
     <defs>
         <radialGradient id="grad1" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
@@ -11,7 +11,7 @@
         </radialGradient>
     </defs>
     <g shape-rendering="crispEdges">
-        <rect width="135" height="30" fill="url(#grad1)"/>
+        <rect width="145" height="30" fill="url(#grad1)"/>
     </g>
     <g transform="translate(7, 4.5) scale(0.07)">
         <path xmlns="http://www.w3.org/2000/svg" d="m120.946627 289.190209c4.258388 2.461612 9.511164 2.461612 13.769552 0l114.081433-65.830209c4.26603-2.459701 6.89194-7.007522 6.89194-11.934567v-131.7616718c0-4.9232239-2.626865-9.4681791-6.885253-11.9336119l-114.079523-65.88370154c-4.266985-2.46161194-9.519761-2.46161194-13.785791 0l-114.04991037 65.88370154c-4.26220896 2.4644776-6.88907463 7.0113432-6.88907463 11.9336119v131.7693138c0 4.919403 2.62686567 9.466268 6.8919403 11.92597l114.0537317 65.830209" fill="#76d04b"/>

@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="150" height="30" role="img" aria-label="CSS3">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="160" height="30" role="img" aria-label="CSS3">
     <title>CSS3</title>
     <defs>
         <radialGradient id="grad1" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
@@ -11,7 +11,7 @@
         </radialGradient>
     </defs>
     <g shape-rendering="crispEdges">
-        <rect width="150" height="30" fill="url(#grad1)"/>
+        <rect width="160" height="30" fill="url(#grad1)"/>
     </g>
     <g transform="translate(10, 6) scale(0.035)">
 	    <path fill="#264de4" d="M71.357 460.819L30.272 0h451.456l-41.129 460.746L255.724 512z"/>

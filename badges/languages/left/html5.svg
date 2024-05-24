@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="135" height="30" role="img" aria-label="HTML5">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="145" height="30" role="img" aria-label="HTML5">
     <title>HTML5</title>
     <defs>
         <radialGradient id="grad1" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
@@ -11,7 +11,7 @@
         </radialGradient>
     </defs>
     <g shape-rendering="crispEdges">
-        <rect width="135" height="30" fill="url(#grad1)"/>
+        <rect width="145" height="30" fill="url(#grad1)"/>
     </g>
     <g transform="translate(10, 6) scale(0.035)">
         <path xmlns="http://www.w3.org/2000/svg" fill="#E34F26" d="M71,460 L30,0 481,0 440,460 255,512"/>

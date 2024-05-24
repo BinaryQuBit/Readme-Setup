@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="150" height="30" role="img" aria-label="KERAS">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="160" height="30" role="img" aria-label="KERAS">
     <title>KERAS</title>
     <defs>
         <radialGradient id="grad1" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
@@ -15,7 +15,7 @@
 	.st1{fill:#D00000;}
     </style>
     <g shape-rendering="crispEdges">
-        <rect width="150" height="30" fill="url(#grad1)"/>
+        <rect width="160" height="30" fill="url(#grad1)"/>
     </g>
     <g transform="translate(8, 6) scale(0.016)">
        <path xmlns="http://www.w3.org/2000/svg" class="st0" d="M1080,1079.96c0,0.02-0.02,0.04-0.04,0.04H0.04c-0.02,0-0.04-0.02-0.04-0.04V0.04C0,0.02,0.02,0,0.04,0   h1079.93c0.02,0,0.04,0.02,0.04,0.04V1079.96z"/>

@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="75" height="30" role="img" aria-label="YARN">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="85" height="30" role="img" aria-label="YARN">
     <title>YARN</title>
     <defs>
         <radialGradient id="grad1" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
@@ -12,7 +12,7 @@
     </defs>
     <style xmlns="http://www.w3.org/2000/svg">.st0{fill:#2c8ebb}.st1{fill:#fff}</style>
     <g shape-rendering="crispEdges">
-        <rect width="75" height="30" fill="url(#grad1)"/>
+        <rect width="85" height="30" fill="url(#grad1)"/>
     </g>
     <g transform="translate(7, 4.5) scale(0.08)">
         <path xmlns="http://www.w3.org/2000/svg" d="M128,0 C57.3281853,0 0,57.3281853 0,128 C0,198.671815 57.3281853,256 128,256 C198.671815,256 256,198.671815 256,128 C256,57.3281853 198.671815,0 128,0" fill="#368FB9"/>
