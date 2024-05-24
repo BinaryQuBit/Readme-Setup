@@ -252,7 +252,7 @@
 <table align="center" style="width: 100%">
   <tr style="width: 100%">
     <td align="center" style="width: 100%">
-      <a href="#">
+      <a href="https://www.php.net/">
         <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/languages/left/php.svg">
       </a>
       <br>
