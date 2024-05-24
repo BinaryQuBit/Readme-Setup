@@ -568,19 +568,19 @@
   <tr style="width: 100%">
     <td align="center" style="width: 100%">
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/f72a269391103202ed1340654369c260cd854709/badges/webServers/left/apache.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/589a7eebe6190fa09b1c9830bb1f0208e5131d0a/badges/webServers/left/apache.svg">
       </a>
       <br>
     </td>
     <td align="center" style="width: 100%">
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/f72a269391103202ed1340654369c260cd854709/badges/webServers/middle/nginx.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/589a7eebe6190fa09b1c9830bb1f0208e5131d0a/badges/webServers/middle/nginx.svg">
       </a>
       <br>
     </td>
     <td align="center" style="width: 100%">
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/f72a269391103202ed1340654369c260cd854709/badges/webServers/right/casaos.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/589a7eebe6190fa09b1c9830bb1f0208e5131d0a/badges/webServers/right/casaos.svg">
       </a> 
       <br>
     </td>
