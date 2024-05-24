@@ -444,61 +444,61 @@
   <tr style="width: 100%">
     <td align="center" style="width: 100%">
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/f72a269391103202ed1340654369c260cd854709/badges/webDevelopmentLibraries/middle/jwt.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/e0ccca39313bb994d6cc6226af7df2f15f2ecf6c/badges/webDevelopmentLibraries/middle/jwt.svg">
       </a>
       <br>
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/f72a269391103202ed1340654369c260cd854709/badges/webDevelopmentLibraries/middle/vite.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/e0ccca39313bb994d6cc6226af7df2f15f2ecf6c/badges/webDevelopmentLibraries/middle/vite.svg">
       </a>
       <br>
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/f72a269391103202ed1340654369c260cd854709/badges/webDevelopmentLibraries/middle/vue.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/e0ccca39313bb994d6cc6226af7df2f15f2ecf6c/badges/webDevelopmentLibraries/middle/vue.svg">
       </a>
       <br>
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/f72a269391103202ed1340654369c260cd854709/badges/webDevelopmentLibraries/middle/chakraUI.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/e0ccca39313bb994d6cc6226af7df2f15f2ecf6c/badges/webDevelopmentLibraries/middle/chakraUI.svg">
       </a>
       <br>
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/f72a269391103202ed1340654369c260cd854709/badges/webDevelopmentLibraries/middle/bootstrap.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/e0ccca39313bb994d6cc6226af7df2f15f2ecf6c/badges/webDevelopmentLibraries/middle/bootstrap.svg">
       </a>
       <br>
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/f72a269391103202ed1340654369c260cd854709/badges/webDevelopmentLibraries/middle/reactNative.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/e0ccca39313bb994d6cc6226af7df2f15f2ecf6c/badges/webDevelopmentLibraries/middle/reactNative.svg">
       </a>
       <br>
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/f72a269391103202ed1340654369c260cd854709/badges/webDevelopmentLibraries/middle/tailwindcss.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/e0ccca39313bb994d6cc6226af7df2f15f2ecf6c/badges/webDevelopmentLibraries/middle/tailwindcss.svg">
       </a>
       <br>
     </td>
     <td align="center" style="width: 100%">
-      <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/f72a269391103202ed1340654369c260cd854709/badges/webDevelopmentLibraries/right/npm.svg">
+     <a href="#">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/e0ccca39313bb994d6cc6226af7df2f15f2ecf6c/badges/webDevelopmentLibraries/right/reactQuery.svg">
       </a>
       <br>
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/f72a269391103202ed1340654369c260cd854709/badges/webDevelopmentLibraries/right/react.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/e0ccca39313bb994d6cc6226af7df2f15f2ecf6c/badges/webDevelopmentLibraries/right/expressJS.svg">
       </a>
       <br>
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/f72a269391103202ed1340654369c260cd854709/badges/webDevelopmentLibraries/right/nodeJS.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/e0ccca39313bb994d6cc6226af7df2f15f2ecf6c/badges/webDevelopmentLibraries/right/nodemon.svg">
       </a>
       <br>
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/f72a269391103202ed1340654369c260cd854709/badges/webDevelopmentLibraries/right/flutter.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/e0ccca39313bb994d6cc6226af7df2f15f2ecf6c/badges/webDevelopmentLibraries/right/flutter.svg">
       </a>
       <br>
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/f72a269391103202ed1340654369c260cd854709/badges/webDevelopmentLibraries/right/nodemon.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/e0ccca39313bb994d6cc6226af7df2f15f2ecf6c/badges/webDevelopmentLibraries/right/nodeJS.svg">
       </a>
       <br>
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/f72a269391103202ed1340654369c260cd854709/badges/webDevelopmentLibraries/right/expressJS.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/e0ccca39313bb994d6cc6226af7df2f15f2ecf6c/badges/webDevelopmentLibraries/right/react.svg">
       </a>
       <br>
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/f72a269391103202ed1340654369c260cd854709/badges/webDevelopmentLibraries/right/reactQuery.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/e0ccca39313bb994d6cc6226af7df2f15f2ecf6c/badges/webDevelopmentLibraries/right/npm.svg">
       </a>
       <br>
     </td>
