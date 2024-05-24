@@ -13,11 +13,11 @@
     <g shape-rendering="crispEdges">
         <rect width="160" height="30" fill="url(#grad1)"/>
     </g>
-    <g transform="translate(5, 3.5) scale(0.15)">
+    <g transform="translate(32, 3.5) scale(0.15)">
         <circle xmlns="http://www.w3.org/2000/svg" cx="77" cy="77" fill="#05998b" r="77"/>
         <path xmlns="http://www.w3.org/2000/svg" d="M81.375 18.667l-38.75 70H77.5l-3.875 46.666 38.75-70H77.5z" fill="#fff"/>
     </g>
-    <text transform="scale(0.09)" x="340" y="210" fill="#fff" font-size="125" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif">
+    <text transform="scale(0.09)" x="740" y="210" fill="#fff" font-size="125" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif">
         FAST API
     </text>
 </svg>

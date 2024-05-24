@@ -13,7 +13,7 @@
     <g shape-rendering="crispEdges">
         <rect width="115" height="30" fill="url(#grad1)"/>
     </g>
-    <g transform="translate(22, 6) scale(0.008)">
+    <g transform="translate(25, 6) scale(0.008)">
             <path d="M670 2095 l0 -155 65 0 65 0 0 155 0 155 -65 0 -65 0 0 -155z"/>
             <path d="M930 2095 l0 -155 65 0 65 0 0 155 0 155 -65 0 -65 0 0 -155z"/>
             <path d="M1200 2095 l0 -155 65 0 65 0 0 155 0 155 -65 0 -65 0 0 -155z"/>
@@ -32,7 +32,7 @@
             <path d="M1200 155 l0 -155 65 0 65 0 0 155 0 155 -65 0 -65 0 0 -155z"/>
             <path d="M1460 155 l0 -155 65 0 65 0 0 155 0 155 -65 0 -65 0 0 -155z"/>
     </g>
-    <text transform="scale(0.09)" x="625" y="210" fill="#fff" font-size="125" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif">
+    <text transform="scale(0.09)" x="615" y="210" fill="#fff" font-size="125" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif">
         VHDL
     </text>
 </svg>

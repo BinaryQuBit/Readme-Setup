@@ -13,7 +13,7 @@
     <g shape-rendering="crispEdges">
         <rect width="175" height="30" fill="url(#grad1)"/>
     </g>
-    <g transform="translate(-49, 3) scale(0.8)">
+    <g transform="translate(-50, 3) scale(0.8)">
         <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0 0 240 234" style="enable-background:new 0 0 240 234;" xml:space="preserve">
         <style type="text/css">
             .st0{fill:#001E36;}
@@ -36,7 +36,7 @@
         </g>
         </svg>
     </g>
-    <text transform="scale(0.09)" x="340" y="210" fill="#fff" font-size="125" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif">
+    <text transform="scale(0.09)" x="450" y="210" fill="#fff" font-size="125" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif">
         ADOBE PHOTOSHOP
     </text>
 </svg>

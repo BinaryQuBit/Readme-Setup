@@ -13,11 +13,11 @@
     <g shape-rendering="crispEdges">
         <rect width="137.5" height="30" fill="url(#grad1)"/>
     </g>
-    <g transform="translate(3, 7) scale(0.12)">
+    <g transform="translate(12, 7) scale(0.12)">
       <rect xmlns="http://www.w3.org/2000/svg" width="198" height="118" x="5" y="5" ry="10" stroke="#000" stroke-width="10" fill="none"/>
       <path xmlns="http://www.w3.org/2000/svg" d="M30 98V30h20l20 25 20-25h20v68H90V59L70 84 50 59v39zm125 0l-30-33h20V30h20v35h20z"/>
     </g>
-    <text transform="scale(0.09)" x="340" y="210" fill="#fff" font-size="125" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif">
+    <text transform="scale(0.09)" x="540" y="210" fill="#fff" font-size="125" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif">
         MARKDOWN
     </text>
 </svg>

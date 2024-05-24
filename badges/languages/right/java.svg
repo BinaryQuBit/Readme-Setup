@@ -13,7 +13,7 @@
     <g shape-rendering="crispEdges">
         <rect width="145" height="30" fill="url(#grad1)"/>
     </g>
-    <g transform="translate(10, 5) scale(0.04)">
+    <g transform="translate(43, 5) scale(0.04)">
             <path fill-rule="evenodd" clip-rule="evenodd" fill="#0074BD" d="M117.151,349.592c0,0-17.265,10.049,12.301,13.44
                 c35.824,4.09,54.13,3.501,93.596-3.959c0,0,10.397,6.504,24.892,12.137C159.439,409.127,47.644,369.013,117.151,349.592
                 L117.151,349.592z"/>
@@ -39,7 +39,7 @@
                 c0,0-5.688,14.602-67.276,26.188c-69.481,13.081-155.197,11.558-206.016,3.167C69.892,438.577,80.303,447.194,133.799,450.637
                 L133.799,450.637z"/>
     </g>
-    <text transform="scale(0.09)" x="340" y="210" fill="#fff" font-size="125" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif">
+    <text transform="scale(0.09)" x="760" y="210" fill="#fff" font-size="125" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif">
         JAVA
     </text>
 </svg>

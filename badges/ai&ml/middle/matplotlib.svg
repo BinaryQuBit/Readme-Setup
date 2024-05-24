@@ -33,7 +33,7 @@
             </g>
         </svg>
     </g>
-    <text transform="scale(0.09)" x="700" y="210" fill="#fff" font-size="125" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif">
+    <text transform="scale(0.09)" x="720" y="210" fill="#fff" font-size="125" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif">
         MATPLOTLIB
     </text>
 </svg>

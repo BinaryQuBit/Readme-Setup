@@ -13,7 +13,7 @@
     <g shape-rendering="crispEdges">
         <rect width="100" height="30" fill="url(#grad1)"/>
     </g>
-    <g transform="translate(-15, 5) scale(0.6)">
+    <g transform="translate(-17, 5) scale(0.6)">
     <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" id="Layer_1" x="0px" y="0px" viewBox="0.6 1067.9 90.3 109.1" enable-background="new 0.6 1067.9 90.3 109.1" xml:space="preserve">
 <g>
 	<path fill="#EE4C2C" d="M77.6,1099.6l-8.1,8.1c13.3,13.3,13.3,34.7,0,47.8c-13.3,13.3-34.7,13.3-47.8,0   c-13.3-13.3-13.3-34.7,0-47.8l0,0l21.1-21.1l3-3l0,0v-15.9l-31.8,31.8c-17.7,17.7-17.7,46.3,0,64c17.7,17.7,46.3,17.7,63.7,0   C95.3,1145.8,95.3,1117.4,77.6,1099.6z"/>
@@ -21,7 +21,7 @@
 </g>
 </svg>
     </g>
-    <text transform="scale(0.09)" x="340" y="210" fill="#fff" font-size="125" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif">
+    <text transform="scale(0.09)" x="360" y="210" fill="#fff" font-size="125" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif">
         PYTORCH
     </text>
 </svg>

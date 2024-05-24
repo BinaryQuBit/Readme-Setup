@@ -14,7 +14,7 @@
     <g shape-rendering="crispEdges">
         <rect width="175" height="30" fill="url(#grad1)"/>
     </g>
-    <g transform="translate(25, 5) scale(0.6)">
+    <g transform="translate(26, 5) scale(0.6)">
         <g xmlns="http://www.w3.org/2000/svg" transform="translate(-77.942529,-177.00005)" id="layer1">
             <g id="g4550">
                 <path style="fill:#e55b2d;fill-opacity:1" d="m 360.04883,687.87305 v 18.89843 l 32.73047,18.89844 v -18.89844 z m -65.46289,18.89843 v 18.89844 l 16.36523,9.44727 V 716.2207 Z m 49.0957,9.44922 -16.36523,9.44922 v 56.69141 l 16.36523,9.44922 v -37.79493 l 16.36719,9.44922 v -18.89843 l -16.36719,-9.44922 z" transform="scale(0.26458333)" id="path4508"/>
@@ -23,7 +23,7 @@
             </g>
         </g>
     </g>
-    <text transform="scale(0.09)" x="650" y="210" fill="#fff" font-size="125" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif">
+    <text transform="scale(0.09)" x="640" y="210" fill="#fff" font-size="125" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif">
         TENSORFLOW
     </text>
 </svg>

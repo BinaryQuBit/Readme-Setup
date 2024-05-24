@@ -13,7 +13,7 @@
     <g shape-rendering="crispEdges">
         <rect width="175" height="30" fill="url(#grad1)"/>
     </g>
-    <g transform="translate(5, 3.2) scale(0.04)">
+    <g transform="translate(29, 3.2) scale(0.04)">
         <svg xmlns="http://www.w3.org/2000/svg" width="432.071pt" height="445.383pt" viewBox="0 0 432.071 445.383" xml:space="preserve">
             <g id="orginal" style="fill-rule:nonzero;clip-rule:nonzero;stroke:#000000;stroke-miterlimit:4;"></g>
             <g id="Layer_x0020_3" style="fill-rule:nonzero;clip-rule:nonzero;fill:none;stroke:#FFFFFF;stroke-width:12.4651;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;">
@@ -32,7 +32,7 @@
             </g>
         </svg>
     </g>
-    <text transform="scale(0.09)" x="340" y="210" fill="#fff" font-size="125" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif">
+    <text transform="scale(0.09)" x="720" y="210" fill="#fff" font-size="125" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif">
         POSTGRESQL
     </text>
 </svg>
