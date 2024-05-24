@@ -255,55 +255,55 @@
   <tr style="width: 100%">
     <td align="center" style="width: 100%">
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/0bef1467ccf51efb23da35750cd75f0f9667ba5e/badges/languages/left/php.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/languages/left/php.svg">
       </a>
       <br>
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/0bef1467ccf51efb23da35750cd75f0f9667ba5e/badges/languages/left/html5.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/languages/left/html5.svg">
       </a>
       <br>
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/0bef1467ccf51efb23da35750cd75f0f9667ba5e/badges/languages/left/python.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/languages/left/python.svg">
       </a>
       <br>
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/0bef1467ccf51efb23da35750cd75f0f9667ba5e/badges/languages/left/shellscript.svg">
-      </a>
-      <br>
-    </td>
-    <td align="center" style="width: 100%">
-      <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/0bef1467ccf51efb23da35750cd75f0f9667ba5e/badges/languages/middle/typescript.svg">
-      </a>
-      <br>
-      <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/0bef1467ccf51efb23da35750cd75f0f9667ba5e/badges/languages/middle/css3.svg">
-      </a>
-      <br>
-      <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/0bef1467ccf51efb23da35750cd75f0f9667ba5e/badges/languages/middle/c%23.svg">
-      </a>
-      <br>
-      <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/0bef1467ccf51efb23da35750cd75f0f9667ba5e/badges/languages/middle/c.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/languages/left/shellscript.svg">
       </a>
       <br>
     </td>
     <td align="center" style="width: 100%">
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/0bef1467ccf51efb23da35750cd75f0f9667ba5e/badges/languages/right/c++.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/languages/middle/typescript.svg">
       </a>
       <br>
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/0bef1467ccf51efb23da35750cd75f0f9667ba5e/badges/languages/right/vhdl.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/languages/middle/css3.svg">
       </a>
       <br>
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/0bef1467ccf51efb23da35750cd75f0f9667ba5e/badges/languages/right/java.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/languages/middle/c%23.svg">
       </a>
       <br>
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/0bef1467ccf51efb23da35750cd75f0f9667ba5e/badges/languages/right/javascript.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/languages/middle/c.svg">
+      </a>
+      <br>
+    </td>
+    <td align="center" style="width: 100%">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/languages/right/c++.svg">
+      </a>
+      <br>
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/languages/right/vhdl.svg">
+      </a>
+      <br>
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/languages/right/java.svg">
+      </a>
+      <br>
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/languages/right/javascript.svg">
       </a>
       <br>
     </td>
@@ -317,31 +317,31 @@
   <tr style="width: 100%">
     <td align="center" style="width: 100%">
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/0bef1467ccf51efb23da35750cd75f0f9667ba5e/badges/ai%26ml/middle/matplotlib.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/ai%26ml/middle/matplotlib.svg">
       </a>
       <br>
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/0bef1467ccf51efb23da35750cd75f0f9667ba5e/badges/ai%26ml/middle/numpy.svg">
-      </a>
-      <br>
-    </td>
-    <td align="center" style="width: 100%">
-      <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/0bef1467ccf51efb23da35750cd75f0f9667ba5e/badges/ai%26ml/right/pytorch.svg">
-      </a>
-      <br>
-      <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/0bef1467ccf51efb23da35750cd75f0f9667ba5e/badges/ai%26ml/right/tensorflow.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/ai%26ml/middle/numpy.svg">
       </a>
       <br>
     </td>
     <td align="center" style="width: 100%">
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/0bef1467ccf51efb23da35750cd75f0f9667ba5e/badges/ai%26ml/left/pandas.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/ai%26ml/right/pytorch.svg">
+      </a>
+      <br>
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/ai%26ml/right/tensorflow.svg">
+      </a>
+      <br>
+    </td>
+    <td align="center" style="width: 100%">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/ai%26ml/left/pandas.svg">
       </a>  
       <br>
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/0bef1467ccf51efb23da35750cd75f0f9667ba5e/badges/ai%26ml/left/keras.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/ai%26ml/left/keras.svg">
       </a>
       <br>
     </td>
@@ -356,31 +356,31 @@
   <tr style="width: 100%">
     <td align="center" style="width: 100%">
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/8beb047492989501dc5758ffef140134c47105cf/badges/cloudPlatforms/right/heroku.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/cloudPlatforms/right/heroku.svg">
       </a>
       <br>
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/8beb047492989501dc5758ffef140134c47105cf/badges/cloudPlatforms/right/googleCloud.svg">
-      </a>
-      <br>
-    </td>
-    <td align="center" style="width: 100%">
-      <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/8beb047492989501dc5758ffef140134c47105cf/badges/cloudPlatforms/left/githubPages.svg">
-      </a>
-      <br>
-      <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/8beb047492989501dc5758ffef140134c47105cf/badges/cloudPlatforms/left/aws.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/cloudPlatforms/right/googleCloud.svg">
       </a>
       <br>
     </td>
     <td align="center" style="width: 100%">
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/8beb047492989501dc5758ffef140134c47105cf/badges/cloudPlatforms/middle/azure.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/cloudPlatforms/left/githubPages.svg">
       </a>
       <br>
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/8beb047492989501dc5758ffef140134c47105cf/badges/cloudPlatforms/middle/vmWare.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/cloudPlatforms/left/aws.svg">
+      </a>
+      <br>
+    </td>
+    <td align="center" style="width: 100%">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/cloudPlatforms/middle/azure.svg">
+      </a>
+      <br>
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/cloudPlatforms/middle/vmWare.svg">
       </a>  
       <br>
     </td>
@@ -394,43 +394,43 @@
   <tr style="width: 100%">
     <td align="center" style="width: 100%">
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/8beb047492989501dc5758ffef140134c47105cf/badges/developmentTools%26environments/left/keilUVision.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/developmentTools%26environments/left/keilUVision.svg">
       </a>
       <br>
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/8beb047492989501dc5758ffef140134c47105cf/badges/developmentTools%26environments/left/markdown.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/developmentTools%26environments/left/markdown.svg">
       </a>
       <br>
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/8beb047492989501dc5758ffef140134c47105cf/badges/developmentTools%26environments/left/docker.svg">
-      </a>
-      <br>
-    </td>
-    <td align="center" style="width: 100%">
-      <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/8beb047492989501dc5758ffef140134c47105cf/badges/developmentTools%26environments/middle/notion.svg">
-      </a>
-      <br>
-      <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/8beb047492989501dc5758ffef140134c47105cf/badges/developmentTools%26environments/middle/vsCode.svg">
-      </a>
-      <br>
-      <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/8beb047492989501dc5758ffef140134c47105cf/badges/developmentTools%26environments/middle/wordpress.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/developmentTools%26environments/left/docker.svg">
       </a>
       <br>
     </td>
     <td align="center" style="width: 100%">
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/8beb047492989501dc5758ffef140134c47105cf/badges/developmentTools%26environments/right/anaconda.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/developmentTools%26environments/middle/notion.svg">
       </a>
       <br>
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/8beb047492989501dc5758ffef140134c47105cf/badges/developmentTools%26environments/right/vivado.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/developmentTools%26environments/middle/vsCode.svg">
       </a>
       <br>
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/8beb047492989501dc5758ffef140134c47105cf/badges/developmentTools%26environments/right/rtos.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/developmentTools%26environments/middle/wordpress.svg">
+      </a>
+      <br>
+    </td>
+    <td align="center" style="width: 100%">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/developmentTools%26environments/right/anaconda.svg">
+      </a>
+      <br>
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/developmentTools%26environments/right/vivado.svg">
+      </a>
+      <br>
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/developmentTools%26environments/right/rtos.svg">
       </a>
       <br>
     </td>
@@ -444,91 +444,91 @@
   <tr style="width: 100%">
     <td align="center" style="width: 100%">
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/e0ccca39313bb994d6cc6226af7df2f15f2ecf6c/badges/webDevelopmentLibraries/middle/jwt.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/webDevelopmentLibraries/middle/jwt.svg">
       </a>
       <br>
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/e0ccca39313bb994d6cc6226af7df2f15f2ecf6c/badges/webDevelopmentLibraries/middle/vite.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/webDevelopmentLibraries/middle/vite.svg">
       </a>
       <br>
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/e0ccca39313bb994d6cc6226af7df2f15f2ecf6c/badges/webDevelopmentLibraries/middle/vue.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/webDevelopmentLibraries/middle/vue.svg">
       </a>
       <br>
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/e0ccca39313bb994d6cc6226af7df2f15f2ecf6c/badges/webDevelopmentLibraries/middle/chakraUI.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/webDevelopmentLibraries/middle/chakraUI.svg">
       </a>
       <br>
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/e0ccca39313bb994d6cc6226af7df2f15f2ecf6c/badges/webDevelopmentLibraries/middle/bootstrap.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/webDevelopmentLibraries/middle/bootstrap.svg">
       </a>
       <br>
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/e0ccca39313bb994d6cc6226af7df2f15f2ecf6c/badges/webDevelopmentLibraries/middle/reactNative.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/webDevelopmentLibraries/middle/reactNative.svg">
       </a>
       <br>
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/e0ccca39313bb994d6cc6226af7df2f15f2ecf6c/badges/webDevelopmentLibraries/middle/tailwindcss.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/webDevelopmentLibraries/middle/tailwindcss.svg">
       </a>
       <br>
     </td>
     <td align="center" style="width: 100%">
      <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/e0ccca39313bb994d6cc6226af7df2f15f2ecf6c/badges/webDevelopmentLibraries/right/reactQuery.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/webDevelopmentLibraries/right/reactQuery.svg">
       </a>
       <br>
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/e0ccca39313bb994d6cc6226af7df2f15f2ecf6c/badges/webDevelopmentLibraries/right/expressJS.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/webDevelopmentLibraries/right/expressJS.svg">
       </a>
       <br>
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/e0ccca39313bb994d6cc6226af7df2f15f2ecf6c/badges/webDevelopmentLibraries/right/nodemon.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/webDevelopmentLibraries/right/nodemon.svg">
       </a>
       <br>
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/e0ccca39313bb994d6cc6226af7df2f15f2ecf6c/badges/webDevelopmentLibraries/right/flutter.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/webDevelopmentLibraries/right/flutter.svg">
       </a>
       <br>
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/e0ccca39313bb994d6cc6226af7df2f15f2ecf6c/badges/webDevelopmentLibraries/right/nodeJS.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/webDevelopmentLibraries/right/nodeJS.svg">
       </a>
       <br>
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/e0ccca39313bb994d6cc6226af7df2f15f2ecf6c/badges/webDevelopmentLibraries/right/react.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/webDevelopmentLibraries/right/react.svg">
       </a>
       <br>
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/e0ccca39313bb994d6cc6226af7df2f15f2ecf6c/badges/webDevelopmentLibraries/right/npm.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/webDevelopmentLibraries/right/npm.svg">
       </a>
       <br>
     </td>
     <td align="center" style="width: 100%">
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/3d75da842e012b354cf9223b0ecba158f5ffba63/badges/webDevelopmentLibraries/left/yarn.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/webDevelopmentLibraries/left/yarn.svg">
       </a>
       <br>
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/3d75da842e012b354cf9223b0ecba158f5ffba63/badges/webDevelopmentLibraries/left/flask.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/webDevelopmentLibraries/left/flask.svg">
       </a>
       <br>
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/3d75da842e012b354cf9223b0ecba158f5ffba63/badges/webDevelopmentLibraries/left/jQuery.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/webDevelopmentLibraries/left/jQuery.svg">
       </a>
       <br>
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/3d75da842e012b354cf9223b0ecba158f5ffba63/badges/webDevelopmentLibraries/left/openCV.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/webDevelopmentLibraries/left/openCV.svg">
       </a>
       <br>
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/3d75da842e012b354cf9223b0ecba158f5ffba63/badges/webDevelopmentLibraries/left/next.js.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/webDevelopmentLibraries/left/next.js.svg">
       </a>
       <br>
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/3d75da842e012b354cf9223b0ecba158f5ffba63/badges/webDevelopmentLibraries/left/fastAPI.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/webDevelopmentLibraries/left/fastAPI.svg">
       </a>
       <br>
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/3d75da842e012b354cf9223b0ecba158f5ffba63/badges/webDevelopmentLibraries/left/reactRouter.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/webDevelopmentLibraries/left/reactRouter.svg">
       </a>
       <br>
     </td>
@@ -542,19 +542,19 @@
   <tr style="width: 100%">
     <td align="center" style="width: 100%">
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/8beb047492989501dc5758ffef140134c47105cf/badges/databases/right/firebase.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/databases/right/firebase.svg">
       </a>
       <br>
     </td>
     <td align="center" style="width: 100%">
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/8beb047492989501dc5758ffef140134c47105cf/badges/databases/left/mongodb.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/databases/left/mongodb.svg">
       </a>
       <br>
     </td>
     <td align="center" style="width: 100%">
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/8beb047492989501dc5758ffef140134c47105cf/badges/databases/middle/postgreSQL.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/databases/middle/postgreSQL.svg">
       </a> 
       <br>
     </td>
@@ -568,19 +568,19 @@
   <tr style="width: 100%">
     <td align="center" style="width: 100%">
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/589a7eebe6190fa09b1c9830bb1f0208e5131d0a/badges/webServers/left/apache.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/webServers/left/apache.svg">
       </a>
       <br>
     </td>
     <td align="center" style="width: 100%">
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/589a7eebe6190fa09b1c9830bb1f0208e5131d0a/badges/webServers/middle/nginx.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/webServers/middle/nginx.svg">
       </a>
       <br>
     </td>
     <td align="center" style="width: 100%">
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/589a7eebe6190fa09b1c9830bb1f0208e5131d0a/badges/webServers/right/casaos.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/webServers/right/casaos.svg">
       </a> 
       <br>
     </td>
@@ -594,31 +594,31 @@
   <tr style="width: 100%">
     <td align="center" style="width: 100%">
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/6f50212fb77c8164d4749c95e1091d3841fba798/badges/3dModelling%26animations/middle/adobePhotoshop.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/3dModelling%26animations/middle/adobePhotoshop.svg">
       </a>
       <br>
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/6f50212fb77c8164d4749c95e1091d3841fba798/badges/3dModelling%26animations/middle/solidEdge.svg">
-      </a>
-      <br>
-    </td>
-    <td align="center" style="width: 100%">
-      <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/8beb047492989501dc5758ffef140134c47105cf/badges/3dModelling%26animations/right/figma.svg">
-      </a>
-      <br>
-      <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/8beb047492989501dc5758ffef140134c47105cf/badges/3dModelling%26animations/right/matlab.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/3dModelling%26animations/middle/solidEdge.svg">
       </a>
       <br>
     </td>
     <td align="center" style="width: 100%">
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/6f50212fb77c8164d4749c95e1091d3841fba798/badges/3dModelling%26animations/left/adobeIllustrator.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/3dModelling%26animations/right/figma.svg">
+      </a>
+      <br>
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/3dModelling%26animations/right/matlab.svg">
+      </a>
+      <br>
+    </td>
+    <td align="center" style="width: 100%">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/3dModelling%26animations/left/adobeIllustrator.svg">
       </a>  
       <br>
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/6f50212fb77c8164d4749c95e1091d3841fba798/badges/3dModelling%26animations/left/blender.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/3dModelling%26animations/left/blender.svg">
       </a>
       <br>
     </td>
@@ -632,19 +632,19 @@
   <tr style="width: 100%">
     <td align="center" style="width: 100%">
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/8beb047492989501dc5758ffef140134c47105cf/badges/hardware%26Microcontrollers/right/basys3Fpga.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/hardware%26Microcontrollers/right/basys3Fpga.svg">
       </a>
       <br>
     </td>
     <td align="center" style="width: 100%">
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/8beb047492989501dc5758ffef140134c47105cf/badges/hardware%26Microcontrollers/left/raspberryPi.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/hardware%26Microcontrollers/left/raspberryPi.svg">
       </a>
       <br>
     </td>
     <td align="center" style="width: 100%">
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/8beb047492989501dc5758ffef140134c47105cf/badges/hardware%26Microcontrollers/middle/stm.svg" >
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/hardware%26Microcontrollers/middle/stm.svg" >
       </a> 
       <br>
     </td>
