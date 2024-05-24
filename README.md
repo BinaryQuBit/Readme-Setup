@@ -554,7 +554,7 @@
     </td>
     <td align="center" style="width: 100%">
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/databases/middle/postgreSQL.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/3e61664056202eb80b1ad0e90ab409b943bd2143/badges/databases/middle/postgreSQL.svg">
       </a> 
       <br>
     </td>
