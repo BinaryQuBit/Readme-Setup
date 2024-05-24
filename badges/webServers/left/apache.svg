@@ -11,7 +11,7 @@
         </radialGradient>
     </defs>
     <g shape-rendering="crispEdges">
-        <rect width="90" height="30" fill="url(#grad1)"/>
+        <rect width="165" height="30" fill="url(#grad1)"/>
     </g>
     <g transform="translate(-20, 2.2) scale(0.8)">
        <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" viewBox="0 0 2392.5 4226.6">
