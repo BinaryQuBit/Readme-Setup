@@ -394,15 +394,15 @@
   <tr style="width: 100%">
     <td align="center" style="width: 100%">
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/f72a269391103202ed1340654369c260cd854709/badges/developmentTools%26environments/left/docker.svg">
-      </a>
-      <br>
-      <a href="#">
         <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/f72a269391103202ed1340654369c260cd854709/badges/developmentTools%26environments/left/keilUVision.svg">
       </a>
       <br>
       <a href="#">
         <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/f72a269391103202ed1340654369c260cd854709/badges/developmentTools%26environments/left/markdown.svg">
+      </a>
+      <br>
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/f72a269391103202ed1340654369c260cd854709/badges/developmentTools%26environments/left/docker.svg">
       </a>
       <br>
     </td>
@@ -422,15 +422,15 @@
     </td>
     <td align="center" style="width: 100%">
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/f72a269391103202ed1340654369c260cd854709/badges/developmentTools%26environments/right/rtos.svg">
-      </a>
-      <br>
-      <a href="#">
         <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/f72a269391103202ed1340654369c260cd854709/badges/developmentTools%26environments/right/anaconda.svg">
       </a>
       <br>
       <a href="#">
         <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/f72a269391103202ed1340654369c260cd854709/badges/developmentTools%26environments/right/vivado.svg">
+      </a>
+      <br>
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/f72a269391103202ed1340654369c260cd854709/badges/developmentTools%26environments/right/rtos.svg">
       </a>
       <br>
     </td>
@@ -594,11 +594,11 @@
   <tr style="width: 100%">
     <td align="center" style="width: 100%">
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/f72a269391103202ed1340654369c260cd854709/badges/3dModelling%26animations/middle/adobePhotoshop.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/6f50212fb77c8164d4749c95e1091d3841fba798/badges/3dModelling%26animations/middle/adobePhotoshop.svg">
       </a>
       <br>
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/f72a269391103202ed1340654369c260cd854709/badges/3dModelling%26animations/middle/solidEdge.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/6f50212fb77c8164d4749c95e1091d3841fba798/badges/3dModelling%26animations/middle/solidEdge.svg">
       </a>
       <br>
     </td>
@@ -614,11 +614,11 @@
     </td>
     <td align="center" style="width: 100%">
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/c7fcb7e4d2271f8aae3e8a8ad706883dae7b78ea/badges/3dModelling%26animations/left/adobeIllustrator.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/6f50212fb77c8164d4749c95e1091d3841fba798/badges/3dModelling%26animations/left/adobeIllustrator.svg">
       </a>  
       <br>
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/f72a269391103202ed1340654369c260cd854709/badges/3dModelling%26animations/left/blender.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/6f50212fb77c8164d4749c95e1091d3841fba798/badges/3dModelling%26animations/left/blender.svg">
       </a>
       <br>
     </td>
