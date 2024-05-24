@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="90" height="30" role="img" aria-label="VSCODE">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="150" height="30" role="img" aria-label="VSCODE">
     <title>VSCODE</title>
     <defs>
         <radialGradient id="grad1" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
@@ -11,7 +11,7 @@
         </radialGradient>
     </defs>
     <g shape-rendering="crispEdges">
-        <rect width="90" height="30" fill="url(#grad1)"/>
+        <rect width="150" height="30" fill="url(#grad1)"/>
     </g>
     <g transform="translate(-10, 6.5) scale(0.55)">
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">

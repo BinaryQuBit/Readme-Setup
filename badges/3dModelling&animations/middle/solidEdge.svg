@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="113" height="30" role="img" aria-label="SOLID EDGE">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="150" height="30" role="img" aria-label="SOLID EDGE">
     <title>SOLID EDGE</title>
     <defs>
         <radialGradient id="grad1" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
@@ -15,7 +15,7 @@
         <symbol xmlns="http://www.w3.org/2000/svg" id="solidedge" data-name="solidedge" viewBox="0 0 150 150"><rect width="150" height="150" style="fill:none"/><polygon points="19.6 10.3 68.3 138.6 145.7 105.4 19.6 10.3" style="fill:url(#radial-gradient)"/><polygon points="1.9 65.6 136.9 50.1 68.3 138.6 1.9 65.6" style="fill:url(#linear-gradient)"/><polygon points="68.3 138.6 80.9 56.5 145.7 105.4 68.3 138.6" style="fill:url(#radial-gradient)"/></symbol>
     </defs>
     <g shape-rendering="crispEdges">
-        <rect width="113" height="30" fill="url(#grad1)"/>
+        <rect width="150" height="30" fill="url(#grad1)"/>
     </g>
     <g transform="translate(4, 2) scale(0.2)">
         <g xmlns="http://www.w3.org/2000/svg" id="Layer_2" data-name="Layer 2"><g id="Layer_1-2" data-name="Layer 1"><g style="clip-path:url(#clip-path)"><use width="150" height="150" transform="translate(0 0) scale(0.84)" xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#solidedge"/></g></g></g>
