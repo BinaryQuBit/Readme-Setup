@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="130" height="30" role="img" aria-label="PHP">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="85" height="30" role="img" aria-label="PHP">
     <title>PHP</title>
     <defs>
         <radialGradient id="grad1" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
@@ -11,9 +11,9 @@
         </radialGradient>
     </defs>
     <g shape-rendering="crispEdges">
-        <rect width="130" height="30" fill="url(#grad1)"/>
+        <rect width="85" height="30" fill="url(#grad1)"/>
     </g>
-    <g transform="translate(8, 9) scale(0.03)">
+    <g transform="translate(8, 5) scale(0.05)">
 <g xmlns="http://www.w3.org/2000/svg" id="g3438" transform="matrix(1.25,0,0,-1.25,-4.4,394.29875)">
     <g id="g3440">
       <g clip-path="url(#clipPath3444)" id="g3442">
@@ -55,7 +55,7 @@
     </g>
   </g>
     </g>
-    <text transform="scale(0.09)" x="380" y="210" fill="#fff" font-size="125" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif">
+    <text transform="scale(0.09)" x="550" y="210" fill="#fff" font-size="125" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif">
         PHP
     </text>
 </svg>

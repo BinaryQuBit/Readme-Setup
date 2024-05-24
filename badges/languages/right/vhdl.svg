@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="145" height="30" role="img" aria-label="VHDL">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="115" height="30" role="img" aria-label="VHDL">
     <title>VHDL</title>
     <defs>
         <radialGradient id="grad1" cx="50%" cy="50%" r="50%" fx="50%" fy="50%">
@@ -11,9 +11,9 @@
         </radialGradient>
     </defs>
     <g shape-rendering="crispEdges">
-        <rect width="145" height="30" fill="url(#grad1)"/>
+        <rect width="115" height="30" fill="url(#grad1)"/>
     </g>
-    <g transform="translate(7, 6) scale(0.008)">
+    <g transform="translate(22, 6) scale(0.008)">
             <path d="M670 2095 l0 -155 65 0 65 0 0 155 0 155 -65 0 -65 0 0 -155z"/>
             <path d="M930 2095 l0 -155 65 0 65 0 0 155 0 155 -65 0 -65 0 0 -155z"/>
             <path d="M1200 2095 l0 -155 65 0 65 0 0 155 0 155 -65 0 -65 0 0 -155z"/>
@@ -32,7 +32,7 @@
             <path d="M1200 155 l0 -155 65 0 65 0 0 155 0 155 -65 0 -65 0 0 -155z"/>
             <path d="M1460 155 l0 -155 65 0 65 0 0 155 0 155 -65 0 -65 0 0 -155z"/>
     </g>
-    <text transform="scale(0.09)" x="340" y="210" fill="#fff" font-size="125" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif">
+    <text transform="scale(0.09)" x="625" y="210" fill="#fff" font-size="125" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif">
         VHDL
     </text>
 </svg>

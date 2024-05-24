@@ -13,7 +13,7 @@
     <g shape-rendering="crispEdges">
         <rect width="175" height="30" fill="url(#grad1)"/>
     </g>
-    <g transform="translate(10, 6) scale(0.09)">
+    <g transform="translate(29, 3) scale(0.13)">
         <svg xmlns="http://www.w3.org/2000/svg" width="180" height="180" stroke="gray">
             <g stroke-width="2" fill="#FFF">
                 <circle cx="90" cy="90" r="88"/>
@@ -33,7 +33,7 @@
             </g>
         </svg>
     </g>
-    <text transform="scale(0.09)" x="340" y="210" fill="#fff" font-size="125" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif">
+    <text transform="scale(0.09)" x="700" y="210" fill="#fff" font-size="125" font-weight="bold" font-family="Verdana,Geneva,DejaVu Sans,sans-serif">
         MATPLOTLIB
     </text>
 </svg>
