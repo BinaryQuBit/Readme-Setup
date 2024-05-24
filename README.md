@@ -255,19 +255,19 @@
   <tr style="width: 100%">
     <td align="center" style="width: 100%">
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/f72a269391103202ed1340654369c260cd854709/badges/languages/left/php.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/504eef928267a1aeb0633f2ec574bd8795e59050/badges/languages/left/php.svg">
       </a>
       <br>
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/f72a269391103202ed1340654369c260cd854709/badges/languages/left/html5.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/504eef928267a1aeb0633f2ec574bd8795e59050/badges/languages/left/html5.svg">
       </a>
       <br>
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/f72a269391103202ed1340654369c260cd854709/badges/languages/left/python.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/504eef928267a1aeb0633f2ec574bd8795e59050/badges/languages/left/python.svg">
       </a>
       <br>
       <a href="#">
-        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/f72a269391103202ed1340654369c260cd854709/badges/languages/left/shellscript.svg">
+        <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/504eef928267a1aeb0633f2ec574bd8795e59050/badges/languages/left/shellscript.svg">
       </a>
       <br>
     </td>
