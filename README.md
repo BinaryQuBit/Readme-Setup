@@ -38,6 +38,7 @@
     <td>
       <a href="https://freightshield.csproject.org">
         <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/8e0c82c21604c112c5786769282eafa86a7a76b4/projectTitles/freightShield.svg">
+        <br>
       </a>
       <a href="https://freightshield.csproject.org">
         <img src="https://github.com/BinaryQuBit/Readme-Setup/blob/main/gifs/freightShield.gif?raw=true">
@@ -55,6 +56,7 @@
     <td>
       <a href="https://blindnessdetection.csproject.org">
         <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/8e0c82c21604c112c5786769282eafa86a7a76b4/projectTitles/blindnessDetection.svg">
+        <br>
       </a>
       <a href="https://blindnessdetection.csproject.org">
         <img src="https://github.com/BinaryQuBit/Readme-Setup/blob/main/gifs/blindnessDetection.gif?raw=true">
@@ -72,6 +74,7 @@
     <td>
       <a href="https://todolist.csproject.org">
         <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/8e0c82c21604c112c5786769282eafa86a7a76b4/projectTitles/todoList.svg">
+        <br>
       </a>
       <a href="https://todolist.csproject.org">
         <img src="https://github.com/BinaryQuBit/Readme-Setup/blob/main/gifs/todoList.gif?raw=true">
@@ -657,7 +660,11 @@
 
 <br>
 
+<div align="center">
+    
 ![](https://github-profile-trophy.vercel.app/?username=BinaryQuBit&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+
+</div>
 
 <br>
 
@@ -679,5 +686,8 @@
   <img src = "https://github.com/BinaryQuBit/Readme-Setup/blob/main/gifs/homerBye.gif?raw=true" alt = "Bye" width="30%" align="right">
 </div>
 
+<div>
+    
 [![](https://visitcount.itsvg.in/api?id=binaryqubit&icon=0&color=6)](https://visitcount.itsvg.in)
 
+</div>
