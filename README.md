@@ -97,6 +97,8 @@
     <td>
       <a href="https://www.skcda.ca/">
         <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/8e0c82c21604c112c5786769282eafa86a7a76b4/projectTitles/SKCDA.svg">
+        <br>
+        <br>
       </a>
       <a href="https://www.skcda.ca/">
         <img src="https://github.com/BinaryQuBit/Readme-Setup/blob/main/gifs/SKCDA.gif?raw=true">
@@ -114,6 +116,8 @@
     <td>
       <a href="https://lisaportfolio.csproject.org">
         <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/8e0c82c21604c112c5786769282eafa86a7a76b4/projectTitles/lisaPortfolio.svg">
+        <br>
+        <br>
       </a>
       <a href="https://lisaportfolio.csproject.org">
         <img src="https://github.com/BinaryQuBit/Readme-Setup/blob/main/gifs/lisaPortfolio.gif?raw=true">
@@ -131,6 +135,8 @@
     <td>
       <a href="https://purchasemania.csproject.org/">
         <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/8e0c82c21604c112c5786769282eafa86a7a76b4/projectTitles/purchaseMania.svg">
+        <br>
+        <br>
       </a>
       <a href="https://purchasemania.csproject.org/">
         <img src="https://github.com/BinaryQuBit/Readme-Setup/blob/main/gifs/purchaseMania.gif?raw=true">
@@ -150,6 +156,8 @@
     <td>
       <a href="https://github.com/BinaryQuBit/Snack-Distributing-Robot">
         <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/40966470427e75ef96e6229202373132cb00ffaf/projectTitles/snackRobot.svg">
+        <br>
+        <br>
       </a>
       <a href="https://github.com/BinaryQuBit/Snack-Distributing-Robot">
         <img src="https://github.com/BinaryQuBit/Readme-Setup/blob/main/gifs/snackRobot.gif?raw=true">
@@ -164,6 +172,8 @@
     <td>
       <a href="https://www.youtube.com/watch?v=i3VYq7fYbPA&t=1s">
         <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/77db7384fa13216b73aef835cf3ad54e2cc12f97/projectTitles/elevatorEmulator.svg">
+        <br>
+        <br>
       </a>
       <a href="https://www.youtube.com/watch?v=i3VYq7fYbPA&t=1s">
         <img src="https://github.com/BinaryQuBit/Readme-Setup/blob/main/gifs/elevatorEmulator.gif?raw=true">
@@ -181,6 +191,8 @@
     <td>
       <a href="https://www.figma.com/proto/JC1gzYjyrpfvc6T0iv3nbd/Untitled?node-id=82-35&starting-point-node-id=82%3A35&scaling=scale-down&t=Ixgn5QeRQnMCsHfy-1">
         <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/77db7384fa13216b73aef835cf3ad54e2cc12f97/projectTitles/discoverWarzone.svg">
+        <br>
+        <br>
       </a>
       <a href="https://www.figma.com/proto/JC1gzYjyrpfvc6T0iv3nbd/Untitled?node-id=82-35&starting-point-node-id=82%3A35&scaling=scale-down&t=Ixgn5QeRQnMCsHfy-1">
         <img src="https://github.com/BinaryQuBit/Readme-Setup/blob/main/gifs/discoverWarzone.gif?raw=true">
@@ -200,6 +212,8 @@
     <td>
       <a href="https://www.suggestmemusic.csproject.org">
         <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/77db7384fa13216b73aef835cf3ad54e2cc12f97/projectTitles/suggestMeMusic.svg">
+        <br>
+        <br>
       </a>
       <a href="https://www.suggestmemusic.csproject.org">
         <img src="https://github.com/BinaryQuBit/Readme-Setup/blob/main/gifs/suggestMeMusic.gif?raw=true">
@@ -217,6 +231,8 @@
     <td>
       <a href="https://github.com/BinaryQuBit/Battleship-Game">
         <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/f72a269391103202ed1340654369c260cd854709/projectTitles/battleshipGame.svg">
+        <br>
+        <br>
       </a>
       <a href="https://github.com/BinaryQuBit/Battleship-Game">
         <img src="https://github.com/BinaryQuBit/Readme-Setup/blob/main/gifs/battleshipGameC.gif?raw=true">
@@ -231,6 +247,8 @@
     <td>
       <a href="https://amanpadda.uk.to/">
         <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/f72a269391103202ed1340654369c260cd854709/projectTitles/virtualResume.svg">
+        <br>
+        <br>
       </a>
       <a href="https://amanpadda.uk.to/">
         <img src="https://github.com/BinaryQuBit/Readme-Setup/blob/main/gifs/virtualResume.gif?raw=true">
