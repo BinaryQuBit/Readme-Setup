@@ -39,6 +39,7 @@
       <a href="https://freightshield.csproject.org">
         <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/8e0c82c21604c112c5786769282eafa86a7a76b4/projectTitles/freightShield.svg">
         <br>
+        <br>
       </a>
       <a href="https://freightshield.csproject.org">
         <img src="https://github.com/BinaryQuBit/Readme-Setup/blob/main/gifs/freightShield.gif?raw=true">
@@ -57,6 +58,7 @@
       <a href="https://blindnessdetection.csproject.org">
         <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/8e0c82c21604c112c5786769282eafa86a7a76b4/projectTitles/blindnessDetection.svg">
         <br>
+        <br>
       </a>
       <a href="https://blindnessdetection.csproject.org">
         <img src="https://github.com/BinaryQuBit/Readme-Setup/blob/main/gifs/blindnessDetection.gif?raw=true">
@@ -74,6 +76,7 @@
     <td>
       <a href="https://todolist.csproject.org">
         <img src="https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/8e0c82c21604c112c5786769282eafa86a7a76b4/projectTitles/todoList.svg">
+        <br>
         <br>
       </a>
       <a href="https://todolist.csproject.org">
