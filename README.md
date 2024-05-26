@@ -8,7 +8,6 @@
   [![SHELLSCRIPT](https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/7831b9bf376caf17c9bf3ea09adba48a26525523/badges/languages/left/shellscript.svg)](https://en.wikipedia.org/wiki/Shell_script)
 
 </div>
-<br>
 
 <div align="center">
 
@@ -28,7 +27,7 @@
 
 </div>
 
-<h3 align="center">🤖 Artificial Intelligence & Machine
+<h3 align="center">🤖 Artificial Intelligence & Machine Learning Libraries</h3>
 
 <div align="center">
 
