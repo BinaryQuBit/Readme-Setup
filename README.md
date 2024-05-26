@@ -1,4 +1,4 @@
-[![WELCOMESCREEN](https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/f72a269391103202ed1340654369c260cd854709/welcomeScreens/binaryQuBit.svg)](#)
+[![WELCOMESCREEN](https://raw.githubusercontent.com/BinaryQuBit/Readme-Setup/f72a269391103202ed1340654369c260cd854709/welcomeScreens/binaryQuBit.svg?width=10)](#)
 
 <br>
 <br>
