@@ -90,12 +90,12 @@
         }
       </style>
       <h1>
-        <span><em>Calender VHDL</em></span>
-        <span><em>Calender VHDL</em></span>
-        <span><em>Calender VHDL</em></span>
+        <span><em>Calender Implementation</em></span>
+        <span><em>Calender Implementation</em></span>
+        <span><em>Calender Implementation</em></span>
       </h1>
       <section class='items'>
-        <p>Calender VHDL is a calender implementation</p>
+        <p>Calender Implementation</p>
         <p>using VHDL with FPGA Board</p>
       </section>
     </div>
